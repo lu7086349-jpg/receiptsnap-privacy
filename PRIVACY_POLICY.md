@@ -69,7 +69,7 @@ ReceiptSnap（以下简称"本应用"）是一款记账工具应用，帮助用�
 
 如果您对本隐私政策有任何疑问，请联系我们：
 
-- 邮箱：[lilu@receiptsnap.app](mailto:lilu@receiptsnap.app)
+- 邮箱：[lu7086349@gmail.com](mailto:lu7086349@gmail.com)
 - 支持网页：[https://github.com/lu7086349-jpg/receiptsnap-privacy](https://github.com/lu7086349-jpg/receiptsnap-privacy)
 
 ---
